@@ -19,7 +19,7 @@ Please contact <bci-github@bristol.ac.uk> for access.
 You are currently viewing the _new_ Bristol Composites Institute Github Page.
 If you have been redirected here from the old ACCIS Github Page, and would like
 to view the old organisation instead, please click 
-[here](https://accis.github.io/Archive)
+[here](https://accis.github.io/archive)
 
 # Software
 
