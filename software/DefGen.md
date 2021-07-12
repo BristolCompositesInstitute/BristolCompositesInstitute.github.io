@@ -33,7 +33,7 @@ Journal of Manufacturing Science and Engineering, 140(7):071006, 2018.
 * M. Valverde, J. P.-H. Belnoue, R. Kupfer, L.F. Kawashita, M. Gude and S.R. Hallett, "Compaction behaviour of continuous fibre-reinforced thermoplastic composites under rapid processing conditions", 
 Composites Part A: Applied Science and Manufacturing, 2021.
 
-For more information please contact: Jonathan Belnoue (University of Bristol) jonathan.belnoue@bristol.ac.uk.
+For more information please contact: Bristol Composites Institute (University of Bristol) bci-github@bristol.ac.uk.
 
 # Graphical Abstract
 
