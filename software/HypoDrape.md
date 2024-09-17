@@ -13,7 +13,7 @@ To receive access to the HypoDrape repository, please send a short email to bci-
 
 Access is granted on the condition that you agree for us to contact you about your use of the software.
 
-You can click [here](mailto:bci-github@bristol.ac.uk?subject=Access%20to%20DefGen%20repository&body=Dear%20BCI%2C%20%0D%0A%0D%0AI%20would%20like%20to%20request%20access%20to%20your%20GitHub%20repository%20for%20HypoDrape.%20%0D%0A%0D%0ABest%20wishes%2C%20%0D%0A%3Cname%3E%0D%0A%3Coptional%20affiliation%3E) for a template.
+You can click [here](mailto:bci-github@bristol.ac.uk?subject=Access%20to%20HypoDrape%20repository&body=Dear%20BCI%2C%20%0D%0A%0D%0AI%20would%20like%20to%20request%20access%20to%20your%20GitHub%20repository%20for%20HypoDrape.%20%0D%0A%0D%0ABest%20wishes%2C%20%0D%0A%3Cname%3E%0D%0A%3Coptional%20affiliation%3E) for a template.
 
 # Additional details
 
