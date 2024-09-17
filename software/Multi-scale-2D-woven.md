@@ -6,7 +6,7 @@ permalink: /Multi-scale-2D-woven/
 
 This is a two-module Python package for:
 1. Obtaining in-plane sheared RVE material properties in any in-plane direction.
-2. Using the sheared RVE properties in a component level shell model. This module requires a forming simulation and its associated VUMAT can be found in [HypoDrape]({% link ./HypoDrape.md %}). Please ask for the **HypoDrape-2D-woven** version when requesting access to the HypoDrape software.
+2. Using the sheared RVE properties in a component level shell model. This module requires a forming simulation and its associated VUMAT can be found in [HypoDrape](./HypoDrape.md). Please ask for the **HypoDrape-2D-woven** version when requesting access to the HypoDrape software.
 
 The related work was conducted at the University of Bristol for Meng yi's PhD funded by Jaguar Land Rover and the EPSRC [iCase XXXXX] (EP/[]).
 
